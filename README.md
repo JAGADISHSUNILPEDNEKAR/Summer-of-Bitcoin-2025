@@ -33,7 +33,7 @@ Welcome to my **Summer of Bitcoin 2025** repository! This is where I document my
 
 ---
 
-## 📆 Weekly Progress Updates  
+## 📆 Weekly Progress Targets  
 🔹 **Week 1:** Learning about Bitcoin Core, Setting Up Development Environment  
 🔹 **Week 2:** Exploring Open-Source Issues, First Contribution  
 🔹 **Week 3:** Diving into Rust and Smart Contracts  
