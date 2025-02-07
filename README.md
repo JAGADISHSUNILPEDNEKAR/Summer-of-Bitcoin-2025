@@ -18,6 +18,8 @@ Welcome to my **Summer of Bitcoin 2025** repository! This is where I document my
 ✔️ **Build and Deploy a Blockchain-based Project**  
 
 
+#Blog
+**Week 1 Report**
 The Road to Summer of Bitcoin
 
 I discovered the Summer of Bitcoin program through my college network. Realizing its potential, I decided to intensify my preparations by focusing on several key areas:
