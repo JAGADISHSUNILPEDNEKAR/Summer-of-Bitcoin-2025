@@ -17,6 +17,31 @@ Welcome to my **Summer of Bitcoin 2025** repository! This is where I document my
 ✔️ **Network with the Blockchain Developer Community**  
 ✔️ **Build and Deploy a Blockchain-based Project**  
 
+
+The Road to Summer of Bitcoin
+
+I discovered the Summer of Bitcoin program through my college network. Realizing its potential, I decided to intensify my preparations by focusing on several key areas:
+
+Technical Skill Development
+
+🔹 LeetCode & GeeksforGeeks – Strengthening my problem-solving skills.🔹 GitHub Contributions – Making meaningful commits to open-source projects.🔹 Programming Revisions – Brushing up on C, C++, and exploring Rust.🔹 Smart Contracts & Solidity – Writing blockchain-based code.
+
+Expanding My Network
+
+🔹 LinkedIn Engagement – Connecting with blockchain developers and industry experts.🔹 Crypto & Stock Market Learning – Deepening my knowledge of investments and finance terminology.
+
+Building a Strong Application
+
+📝 Resume Optimization – Tailoring it specifically for Summer of Bitcoin.📚 Reading Resources – Books like Grokking Bitcoin & Mastering Bitcoin to build in-depth understanding.
+
+The Journey Continues...
+
+This is just the beginning. Every day, I uncover new layers of blockchain technology, investing, and software development. My goal is to make meaningful contributions to the blockchain community and explore innovative solutions in the Web3 space.
+
+Through these weekly blogs, I aim to document my progress, share insights, and inspire others on a similar path. 🚀
+
+
+
 ---
 
 ## 🏗️ Projects & Contributions  
