@@ -1,118 +1,137 @@
-🌟 Summer of Bitcoin 2025 Journey 🚀
+# 🌞 My Summer of Bitcoin 2025 Journey: From Doubt to Determination
 
-Welcome to my Summer of Bitcoin 2025 repository! This is where I document my journey, contributions, learning resources, and project progress.
+*Ohh how shall I put it?*
 
-🔥 Why This Repository?
+Just a year ago, before stepping into college life, I had no clue what “open source” even meant. I vaguely remember my seniors talking about SoB—some had cracked the initial screening, some were GSoC contributors, and the rest were just buzzing with excitement about pull requests and GitHub issues. To be honest, I had no idea what any of that meant.
 
-📌 Purpose & Objectives:
+But something clicked. While GSoC and LFX sounded equally prestigious, it was **Summer of Bitcoin (SoB)** that caught my attention. Maybe it was the blend of **finance** and **technology**. Maybe it was the mysterious appeal of Bitcoin. All I knew was—I felt drawn to it.
 
-✅ Track open-source contributions
+I’ve always been curious about how things work—especially systems involving money. Questions like *“How does Bitcoin even have value?”*, *“Why is its price so volatile?”*, *“Who created it?”* kept nudging at me. I didn’t care much about the stipend (and no, that’s not a humblebrag). I genuinely wanted to **learn**. There’s a saying I’ve grown up hearing—*“Where there is Saraswati (knowledge), there is Lakshmi (fortune).”* That principle has always guided me.
 
-✅ Learn blockchain & Bitcoin development
+And so began my journey.
 
-✅ Work on Bitcoin-related projects
+---
 
-✅ Share insights, progress, and resources
+## 🧪 The GSoC Attempt That Didn’t Work Out
 
+Before I tell you how SoB unfolded, I need to rewind a bit.
 
-🎯 Goals for Summer of Bitcoin
+There was a GSoC mentorship program happening in my college. We were told to build a web application—sort of a mini hackathon—and based on that, a few would get mentored further. I gave it a solid shot. But I wasn’t selected.
 
-✔️ Understand Bitcoin Core Development
+At that moment, I genuinely felt open source wasn’t for me.
 
-✔️ Contribute to Open-Source Bitcoin Projects
+But the idea of PRs… GitHub… organizations… it never left my mind. It was like a song stuck on loop. Even though I didn’t get selected, something in me whispered, *“This is worth coming back to.”*
 
-✔️ Learn Rust for Blockchain Development
+---
 
-✔️ Network with the Blockchain Developer Community
+## ✨ The Spark Rekindles: SoB Applications Open!
 
-✔️ Build and Deploy a Blockchain-based Project
+Semester 1 ended. I had zero experience with GitHub. I was home, relaxing, when I suddenly found out that applications for **Summer of Bitcoin 2025** were live.
 
-🛤 The Road to Summer of Bitcoin
+Boom.
 
-I discovered the Summer of Bitcoin program through my college network. Realizing its potential, I decided to intensify my preparations by focusing on several key areas:
+I saw an opportunity to try again, this time with a clearer sense of purpose. It wasn’t just tech now—it was **Bitcoin** and **blockchain**—a space I had always wanted to understand better.
 
-🛠 Technical Skill Development
+I started brushing up on the basics. Took a course. Revisited some old YouTube playlists on blockchain. Everything started making more sense now. So, I filled out the form: GitHub, LinkedIn, LeetCode, and that all-important essay—*“Why are you applying for SoB?”*
 
-🔹 LeetCode & GeeksforGeeks – Strengthening problem-solving skills
+---
 
-🔹 GitHub Contributions – Meaningful commits to open-source projects
+## 😨 Doubt Creeps In… and Then Magic Happens
 
-🔹 Programming Revisions – Brushing up on C, C++, and exploring Rust
+Here comes the twist.
 
-🔹 Smart Contracts & Solidity – Writing blockchain-based code
+A friend of mine—who had solved over **250 LeetCode** questions—didn’t get selected. My roommate, who was deep into the **MERN stack**, got rejected too.
 
-🌎 Expanding My Network
+Me? I had solved just **50 LeetCode** problems.
 
-🔹 LinkedIn Engagement – Connecting with blockchain developers and industry experts
+I began losing hope.
 
-🔹 Crypto & Stock Market Learning – Deepening knowledge of investments and financial terminology
+But I kept **manifesting** that I’d get in. I didn’t know how, but I kept visualizing that email.
 
+And then, three days later—*Boom!*
 
-📄 Building a Strong Application
+📩 **“Congratulations, you’ve been selected…”**
 
+I still remember screaming in joy. Telling my parents. The excitement was unreal.
 
-📝 Resume Optimization – Tailoring it specifically for Summer of Bitcoin
+But SoB wasn’t done testing me yet…
 
-📚 Reading Resources – Books like Grokking Bitcoin & Mastering Bitcoin to build an in-depth understanding
+---
 
+## 💻 The Assignment Phase: Chaos & Redemption
 
-🚀 The Journey Continues...
+We were given **4 hard assignments** to move to the next round.
 
-This is just the beginning! Every day, I uncover new layers of blockchain technology, investing, and software development. My goal is to make meaningful contributions to the blockchain community and explore innovative solutions in the Web3 space.
+Hard was an understatement.
 
-Through these weekly blogs, I aim to:
+I tried solving them locally—my brain was fried. The first one wasn’t even compiling. I was drowning.
 
-📌 Document my progress
+Then a friend suggested using codespaces. And suddenly things started clicking.
 
-📌 Share insights & technical learnings
+It was **literally on the last day** of the deadline that I submitted Assignment 1. The rest? I completed all three in just under two weeks. I was back in the game.
 
-📌 Inspire others on a similar path
+---
 
-🏗 Projects & Contributions
+## 🧑‍💻 Finding My Org: python-bitcoin-utils
 
-✅ My Open-Source Contributions
+Next came contributions.
 
-📅 Date	🏆 Contribution	🔗 Repository	🔗 PR Link
+My mentor told me to check out orgs from last year and pick one that fit my tech stack. At that point, I had just started learning Python.
 
-TBD	Issue Fix	TBD	TBD
+That’s when I found **python-bitcoin-utils**. It was a perfect match.
 
-TBD	Code Improvement	TBD	TBD
+My first PR? I added **2 OP\_CODES** to support Taproot script path and even wrote test cases.
 
-📜 Learning Resources
+Wasn’t expecting much, but… the next morning I got the email:
 
-📚 Bitcoin & Blockchain
+> *“Your PR has been merged.”*
 
-Mastering Bitcoin by Andreas Antonopoulos
+That one moment **changed everything**.
 
-Bitcoin Core Developer Guide
+I felt seen. I felt capable. I started diving deeper into the codebase. PRs followed. And I kept building.
 
-📚 Rust Programming
+---
 
-Learn Rust - The Book
+## 🙏 A Mentor’s Faith, A Community’s Support
 
-📚 Other Resources
+Even though my mentor Kostantinos Karasavvas was super busy, he still decided to apply as a mentor to SoB—and proposed the exact idea I had worked on: **PSBT support**, along with two more BIPs.
 
-Bitcoin Optech – Advanced Bitcoin development insights
+I can’t thank him enough.
 
-Bitcoin PR Review Club – Reviewing Bitcoin Core PRs
+There were rough patches too. Some PRs got closed. Some days I felt I wasn’t good enough. But **Mukund Gupta bhaiya** stood by me. His support, his lectures on Bitcoin, and his calm guidance helped me through the chaos.
 
-📆 Weekly Progress Targets
+---
 
+## 📝 The Proposal: A Product of Sacrifice
 
-🔹 Week 1: Learning about Bitcoin Core, Setting Up Development Environment
+I skipped classes. Pored through codebases. Researched late nights.
 
-🔹 Week 2: Exploring Open-Source Issues, First Contribution
+But in the end, my proposal took shape—strong, clear, and filled with genuine passion.
 
-🔹 Week 3: Diving into Rust and Smart Contracts
+And finally, I was **accepted into SoB 2025**.
 
-🔹 Week 4+: Active Contributions and Personal Bitcoin Project
+---
 
+## 🚀 Where I Am Now
 
-🌍 Let's Connect
+Right now, I’ve implemented the initial structure of the PSBT class and submitted several PRs:
 
-🔗 GitHub: Jagadish Sunil Pednekar
+* [PR #168](https://github.com/karask/python-bitcoin-utils/pull/168)
+* [PR #169](https://github.com/karask/python-bitcoin-utils/pull/169)
+* [PR #170](https://github.com/karask/python-bitcoin-utils/pull/170)
+* [PR #171](https://github.com/karask/python-bitcoin-utils/pull/171)
 
-🔗 LinkedIn: Jagadish Sunil Pednekar
+Here’s my full proposal:
+📄 [Google Docs Link](https://docs.google.com/document/d/1ffyqEMyoJ9kHmmchV_fVM0hSeeWzcUkis0Vzlvk6z5Y/edit?tab=t.0)
 
-🔗 LeetCode: JagadishSP
+---
 
+## 🌱 Final Words
+
+This journey wasn’t about skill. It wasn’t about LeetCode stats or fancy projects.
+
+It was about **resilience**, **curiosity**, and **faith**.
+
+If you're someone who doubts whether you belong in open source or not, trust me—you do. You just need that one chance, that one push.
+
+And maybe… just maybe… **Summer of Bitcoin** could be that spark for you, too.
