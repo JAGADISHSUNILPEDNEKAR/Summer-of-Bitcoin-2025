@@ -76,11 +76,11 @@ It was **literally on the last day** of the deadline that I submitted Assignment
 
 Next came contributions.
 
-My mentor told me to check out orgs from last year and pick one that fit my tech stack. At that point, I had just started learning Python.
+Mukund Bhaiya told me to check out orgs from last year and pick one that fit my tech stack. At that point, I had just started learning Python.
 
 That’s when I found **python-bitcoin-utils**. It was a perfect match.
 
-My first PR? I added **2 OP\_CODES** to support Taproot script path and even wrote test cases.
+My first PR? I added **2 OP\_CODES** to support Taproot script path and even wrote a test case.
 
 Wasn’t expecting much, but… the next morning I got the email:
 
@@ -94,11 +94,11 @@ I felt seen. I felt capable. I started diving deeper into the codebase. PRs foll
 
 ## 🙏 A Mentor’s Faith, A Community’s Support
 
-Even though my mentor Kostantinos Karasavvas was super busy, he still decided to apply as a mentor to SoB—and proposed the exact idea I had worked on: **PSBT support**, along with two more BIPs.
+Even though my mentor Kostantinos Karasavvas was super busy, he still decided to apply as a mentor to SoB—and proposed the exact idea I had been working upon: **PSBT support**, along with two more BIPs.
 
 I can’t thank him enough.
 
-There were rough patches too. Some PRs got closed. Some days I felt I wasn’t good enough. But **Mukund Gupta bhaiya** stood by me. His support, his lectures on Bitcoin, and his calm guidance helped me through the chaos.
+There were rough patches too. Some PRs got closed. Some days I felt I wasn’t good enough. But **Mukund bhaiya** stood by me. His support, his lectures on Bitcoin, and his calm guidance helped me through the chaos.
 
 ---
 
