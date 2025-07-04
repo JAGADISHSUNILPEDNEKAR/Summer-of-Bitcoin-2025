@@ -94,7 +94,7 @@ I felt seen. I felt capable. I started diving deeper into the codebase. PRs foll
 
 ## 🙏 A Mentor’s Faith, A Community’s Support
 
-Even though my mentor Kostantinos Karasavvas was super busy, he still decided to apply as a mentor to SoB—and proposed the exact idea I had been working upon: **PSBT support**, along with two more BIPs.
+Even though my mentor Kostantinos Karasavvas was super busy, he still decided to apply as a mentor to SoB—and proposed the exact idea I had been working upon: **PSBT support**, along with two more BIPs. All along the project he has been super kind and its been  super fun to work with him.
 
 I can’t thank him enough.
 
@@ -116,10 +116,7 @@ And finally, I was **accepted into SoB 2025**.
 
 Right now, I’ve implemented the initial structure of the PSBT class and submitted several PRs:
 
-* [PR #168](https://github.com/karask/python-bitcoin-utils/pull/168)
-* [PR #169](https://github.com/karask/python-bitcoin-utils/pull/169)
-* [PR #170](https://github.com/karask/python-bitcoin-utils/pull/170)
-* [PR #171](https://github.com/karask/python-bitcoin-utils/pull/171)
+* [PR #172](https://github.com/karask/python-bitcoin-utils/pull/172)
 
 Here’s my full proposal:
 📄 [Google Docs Link](https://docs.google.com/document/d/1ffyqEMyoJ9kHmmchV_fVM0hSeeWzcUkis0Vzlvk6z5Y/edit?tab=t.0)
