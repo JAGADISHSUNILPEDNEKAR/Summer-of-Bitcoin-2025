@@ -114,7 +114,7 @@ And finally, I was **accepted into SoB 2025**.
 
 ## 🚀 Where I Am Now
 
-Right now, I’ve implemented the initial structure of the PSBT class and submitted several PRs:
+Right now, I’ve implemented the initial structure of the PSBT class and submitted a PR:
 
 * [PR #172](https://github.com/karask/python-bitcoin-utils/pull/172)
 
